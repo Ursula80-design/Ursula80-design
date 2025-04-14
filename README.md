@@ -2,6 +2,10 @@
 
 🌱 I’m currently learning how to use GitHub and just finished the exercise.
 It was a lot of fun 😄
+But I still need some practice to level up my skills.
+
+Later, when I finish my work sitting all day, I need to move! Did you know that I'm a dance fitness instructor?
+***Come and dance with me*** 😄
 
 <!--
 **Ursula80-design/Ursula80-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
