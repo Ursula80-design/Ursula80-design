@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🌱 I’m currently learning how to use GitHub and just finished the exercise.
+It was a lot of fun 😄
+
 <!--
 **Ursula80-design/Ursula80-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
